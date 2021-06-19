@@ -1,0 +1,11 @@
+{
+ "name": "rds/mvc",
+ "autoload":{
+     "psr-4": {
+         "App\\" : "app/"
+     }
+ },
+ "require-dev": {
+  "squizlabs/php_codesniffer": "^3.6"
+ }
+}
